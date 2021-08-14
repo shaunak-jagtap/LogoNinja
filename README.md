@@ -1,5 +1,7 @@
 # LogoNinja
 
+* iOS game written in Swift to guess presented logo!
+
 * Used MVVM Architecture
 
 ## Points: ##
